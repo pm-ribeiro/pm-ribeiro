@@ -7,7 +7,7 @@ Since 2018 I also work as a front-end web developer using mainly Vuejs, HTML, CS
 
 #### I’m currently:
 - 🔭 working as a front-end developer at [Melhor Envio](https://melhorenvio.com.br/)
-- 🌱 learning Vue 3 and ReactJs
+- 🌱 learning Vue3, ReactJs and how to write better JS code
  
  
 #### 📫 You can contact me via:
