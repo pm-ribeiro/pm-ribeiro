@@ -3,7 +3,7 @@ My name is Patrícia. I’m a computer engineering student with a passion for fr
 
 Currently, I'm enrolling in the last semester of computer engineering at the Federal University of Pelotas and working with computational linguistics.
 
-Since 2018 I also work as a front-end web developer using mainly Vuejs, HTML, CSS, and JavaScript.
+Since 2018 I also work as a front-end developer using mainly Vuejs, HTML, CSS, and JavaScript.
 
 #### I’m currently:
 🔭 working as a front-end developer at [Melhor Envio](https://melhorenvio.com.br/)
