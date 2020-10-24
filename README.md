@@ -21,7 +21,8 @@ Since 2018 I also work as a front-end developer using mainly Vuejs, HTML, CSS, a
 
 ---
 
-😄 Fun fact: I’m crazy about comic strips, my favorites ones are [Strange Planet](https://www.instagram.com/nathanwpylestrangeplanet), [Poorly Drawn Lines](https://www.instagram.com/poorlydrawnlines) and [ketnipz](https://www.instagram.com/ketnipz).
+😄 Fun fact: I’m crazy about comic strips, my favorites ones are [Strange Planet](https://www.instagram.com/nathanwpylestrangeplanet), [Poorly Drawn Lines](https://www.instagram.com/poorlydrawnlines), [Tiny Snek](https://www.instagram.com/tinysnekcomics/), [ketnipz](https://www.instagram.com/ketnipz), [Leandro Assis](https://www.instagram.com/leandro_assis_ilustra/) and [Paulo Moreira](https://www.instagram.com/paulomoreirap/).
+.
 
 <!--
 **pm-ribeiro/pm-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
