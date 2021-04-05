@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Patrícia. I’m a computer engineering student with a passion for front-end and digital design.
+My name is Patrícia. I’m a computer engineer with a passion for front-end and digital design.
 
 Currently, I'm enrolling in the last semester of computer engineering at the Federal University of Pelotas and working with computational linguistics.
 
