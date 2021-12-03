@@ -19,7 +19,7 @@ Graduated in Computer Engineering from Universidade Federal de Pelotas, since 20
 
 ---
 
-😄 Fun fact: I’m crazy about comic strips, my favorites ones are [Strange Planet](https://www.instagram.com/nathanwpylestrangeplanet), [Poorly Drawn Lines](https://www.instagram.com/poorlydrawnlines), [Tiny Snek](https://www.instagram.com/tinysnekcomics/), [ketnipz](https://www.instagram.com/ketnipz), [Leandro Assis](https://www.instagram.com/leandro_assis_ilustra/) and [Paulo Moreira](https://www.instagram.com/paulomoreirap/).
+😄 Fun fact: I’m crazy about comic strips, my favorites ones are [Strange Planet](https://www.instagram.com/nathanwpylestrangeplanet), [Poorly Drawn Lines](https://www.instagram.com/poorlydrawnlines), [Tiny Snek](https://www.instagram.com/tinysnekcomics/), [ketnipz](https://www.instagram.com/ketnipz) and [Leandro Assis](https://www.instagram.com/leandro_assis_ilustra/).
 
 <!--
 **pm-ribeiro/pm-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
