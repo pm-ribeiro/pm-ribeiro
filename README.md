@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Patrícia. I’m a computer engineer with a passion for front-end and digital design.
 
-Graduated in Computer Engineering from Universidade Federal de Pelotas, since 2018 I also work as a front-end developer using mainly Vuejs, HTML, CSS, and JavaScript.
+Graduated in Computer Engineering from Universidade Federal de Pelotas, since 2015 I also work as a front-end developer using mainly Vuejs, HTML, CSS, and JavaScript.
 
 #### I’m currently:
 🔭 working as a front-end developer at [Melhor Envio](https://melhorenvio.com.br/).
