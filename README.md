@@ -6,7 +6,7 @@ Graduated in Computer Engineering from Universidade Federal de Pelotas, since 20
 #### I’m currently:
 🔭 working as a front-end developer at [Melhor Envio](https://melhorenvio.com.br/).
 
-🌱 trying to learn Vue3, and how to write better code.
+🌱 improving my skills on Vue 3 and TDD.
  
  
 #### 📫 You can contact me via:
